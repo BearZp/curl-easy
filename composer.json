@@ -1,7 +1,9 @@
 {
-    "name": "asyncswarm/curl-easy",
+    "name": "asyncswarm/curl",
     "description": "cURL wrapper for PHP. Supports parallel and non-blocking requests. For high speed crawling, see stil/curl-robot.",
     "license": "MIT",
+    "minimum-stability": "stable",
+    "type": "library",
     "require": {
         "symfony/event-dispatcher": "^5.1"
     },
